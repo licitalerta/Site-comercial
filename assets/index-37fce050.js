@@ -1,0 +1,1 @@
+console.log("Site Licitalerta carregado com sucesso!");
